@@ -1,0 +1,2 @@
+In this project I will build a basic recipe website using my knowledge of HTML and the skills I have recently learned.
+The website will consist of a index page which will have a few links to some recipes.
